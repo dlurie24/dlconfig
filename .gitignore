@@ -1,3 +1,2 @@
 scripts/github_token.py
-scripts/__pycache__
-.gitignore
+scripts/__pycache__/
